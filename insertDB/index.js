@@ -6,7 +6,8 @@ module.exports = connect => {
   ]
   sqlArr.map(sql => {
     connect.query(sql, function (err, res) {
-     err ? console.log(err) : ''
+     console.log(err || '插入数据成功')
     })
   })
+
 }
