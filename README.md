@@ -1,2 +1,3 @@
-# community-node
-A  simple community for 'community front-end'
+# 题记
+
+该项目主要是用于配合前端完成一个完整的社区项目，由于前端为主，该项目需要等待前端基本完工才能开发开发，目前前端项目处于初期阶段，所以该项目暂时留存，等待后续处理
